@@ -50,11 +50,9 @@ Code generated and saved to PEloader.py
 
    - **Output File Name:** Optionally, you can specify a custom output file name for the generated Python script. If left empty, the default name PEloader.py will be used.
 
-4. Optionally, choose to pre-encode the command if it contains special characters like `'`, `"`, or `$`.
+4. The generated Python script (`PEloader.py`) will be saved in the current directory.
 
-5. The generated Python script (`PEloader.py`) will be saved in the current directory.
-
-6. Press Ctrl+C at any time to cancel the operation.
+5. Press Ctrl+C at any time to cancel the operation.
 
 ## Requirements
 
