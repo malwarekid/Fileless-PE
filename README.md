@@ -4,6 +4,8 @@
 
 - The provided Python program Fileless-PEloader.py generates a Python script (PEloader.py) to load a DLL or EXE file from a given URL. It provides functionality to specify a method to execute if the file is a DLL. The script utilizes the pythonmemorymodule library for memory manipulation.
 
+![Fileless-PE](https://github.com/malwarekid/Fileless-PE/assets/91931069/75538170-801c-4eae-b0a2-b9fa4f56bc6f)
+
 ## Features
 
 - Dynamic Code Generation: Generates Python script (PEloader.py) based on user input for URL, file type (DLL or EXE), and method (if applicable).
@@ -31,7 +33,7 @@
 /_/   /_/_/\___/_/\___/____/____/     /_/   /_____/    
                                       By @malwarekid
 
-Enter the URL: url
+Enter the URL: 
 Enter the file type (dll or exe): dll
 Enter the method (Example Method: DLLRegisterServer): DLLRegisterServer
 Enter the output file name (default: PEloader.py): 
@@ -48,11 +50,11 @@ Code generated and saved to PEloader.py
 
    - **Output File Name:** Optionally, you can specify a custom output file name for the generated Python script. If left empty, the default name PEloader.py will be used.
 
-4. - Optionally, choose to pre-encode the command if it contains special characters like `'`, `"`, or `$`.
+4. Optionally, choose to pre-encode the command if it contains special characters like `'`, `"`, or `$`.
 
-5. - The generated Python script (`PEloader.py`) will be saved in the current directory.
+5. The generated Python script (`PEloader.py`) will be saved in the current directory.
 
-6. - Press Ctrl+C at any time to cancel the operation.
+6. Press Ctrl+C at any time to cancel the operation.
 
 ## Requirements
 
