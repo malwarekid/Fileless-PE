@@ -2,7 +2,7 @@
 
 ## Overview
 
-- The provided Python program Fileless-PEloader.py generates a Python script (PEloader.py) to load a DLL or EXE file from a given URL. It provides functionality to specify a method to execute if the file is a DLL. The script utilizes the pythonmemorymodule library for memory manipulation.
+- The provided Python program Fileless-PE.py generates a Python script (PEloader.py) to load a DLL or EXE file from a given URL. It provides functionality to specify a method to execute if the file is a DLL. The script utilizes the pythonmemorymodule library for memory manipulation.
 
 ![Fileless-PE](https://github.com/malwarekid/Fileless-PE/assets/91931069/75538170-801c-4eae-b0a2-b9fa4f56bc6f)
 
