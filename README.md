@@ -17,8 +17,7 @@
 
 1. **Clone the Repository:**
 
-    `git clone https://github.com/malwarekid/Fileless-PE.git &&
-    cd Fileless-PE`
+    `git clone https://github.com/malwarekid/Fileless-PE.git && cd Fileless-PE`
 
 2. **Run the Script:**
 
